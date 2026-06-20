@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kottaavec2t
 - 👀 I'm actually working on an image edit, it's an old project that I want to renew with more features and interactive Ui.
 - 🌱 I’m currently learning apps manager in python like Tkinter & Ctkinter, Pyqt...
-- 😄 Pronouns: He / Him
